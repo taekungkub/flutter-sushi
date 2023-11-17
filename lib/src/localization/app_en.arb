@@ -1,0 +1,10 @@
+{
+  "appTitle": "Home",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+   "setting": "Setting",
+    "@setting": {
+      "description": "The conventional newborn programmer greeting"
+    }
+}
