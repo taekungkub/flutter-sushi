@@ -18,6 +18,6 @@
   "dart.lineLength": 70,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "quickfix.insertSemicolon": true
+    "quickfix.insertSemicolon": "explicit"
   }
 }
